@@ -123,7 +123,7 @@ public class TechJobs {
             }
         }
         else {
-            System.out.println("No jobs found.");
+            System.out.println("Sorry, no jobs found. Please check back again.");
         }
     }
 }
